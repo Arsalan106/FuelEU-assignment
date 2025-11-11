@@ -307,7 +307,7 @@ This repository is provided for demonstration/assignment purposes. Add a license
 
 ## 👨‍💻 Author
 
-*MD Shahab Uddin*  
+*Arsaln Ahmed  
 Full-Stack Developer  
 GitHub: https://github.com/Arsalan106
 
