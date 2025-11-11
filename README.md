@@ -1,6 +1,5 @@
 # ⚓ FuelEU Maritime — Full-Stack Compliance Platform 🌍🚢⚙
 
-![FuelEU Maritime Banner](https://res.cloudinary.com/dmwwuy2w9/image/upload/v1762783953/Screenshot_2025-11-10_193717_x6m3sx.png)
 
 ---
 
