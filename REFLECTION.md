@@ -56,4 +56,4 @@ This made testing and reasoning about code straightforward.
 ### ✅ Conclusion
 AI-assisted full-stack development allowed me to balance speed, structure, and reliability. Human oversight remained essential, but AI dramatically improved development flow, documentation quality, and time efficiency.
 
-*— MD Shahab Uddin*
+*-Arsalan Ahmed*
