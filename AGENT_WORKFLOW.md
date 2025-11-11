@@ -119,7 +119,7 @@ AI assistance was most effective when combined — *Copilot for syntax, ChatGPT 
 
 AI agents were instrumental in achieving a clean, well-structured solution in reduced time. The key takeaway is that *AI amplifies productivity when guided by clear architectural intent and human validation.*
 
-*— Authored by MD Shahab Uddin*  
+*— Authored by Arsalan*  
 Full-Stack Developer | FuelEU Maritime Project
 # AGENT_WORKFLOW.md
 
@@ -242,5 +242,5 @@ AI assistance was most effective when combined — *Copilot for syntax, ChatGPT 
 
 AI agents were instrumental in achieving a clean, well-structured solution in reduced time. The key takeaway is that *AI amplifies productivity when guided by clear architectural intent and human validation.*
 
-*— Authored by MD Shahab Uddin*  
+*— Authored by Arsalan Ahmed*  
 Full-Stack Developer | FuelEU Maritime Project

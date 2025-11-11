@@ -85,7 +85,7 @@ graph TD
 ## 🧱 Project Architecture
 
 text
-shahab-16-fueleu_compliance_platform/
+Arsalan106-fueleu_compliance_platform/
 │
 ├── README.md
 ├── AGENT_WORKFLOW.md
@@ -235,7 +235,7 @@ CB = (Target - Actual) × (Fuel Consumption × 41,000 MJ/t)
 ### Clone Repository
 bash
 git clone https://github.com/Arsalan106/FuelEU-assignment.git
-cd shahab-16-fueleu_compliance_platform
+cd FuelEU-assignment
 
 
 ### Backend Setup
@@ -307,7 +307,7 @@ This repository is provided for demonstration/assignment purposes. Add a license
 
 ## 👨‍💻 Author
 
-*Arsaln Ahmed  
+*Arsalan Ahmed  
 Full-Stack Developer  
 GitHub: https://github.com/Arsalan106
 
